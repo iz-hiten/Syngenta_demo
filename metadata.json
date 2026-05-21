@@ -1,0 +1,6 @@
+{
+  "name": "FarmCast",
+  "description": "AI-Powered Agricultural Marketing Intelligence Platform for Syngenta",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
